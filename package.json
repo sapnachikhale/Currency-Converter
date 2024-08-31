@@ -1,0 +1,23 @@
+{
+    "name": "currency-converter",
+    "version": "1.0.0",
+    "description": "A simple currency converter app",
+    "main": "index.html",
+    "scripts": {
+      "start": "lite-server",
+      "build": "echo 'No build script defined'",
+      "test": "echo 'No tests defined' && exit 0"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "lite-server": "^2.6.1"
+    },
+    "keywords": [
+      "currency",
+      "converter",
+      "web"
+    ],
+    "author": "sapna chikhale",
+    "license": "MIT"
+  }
+  
